@@ -9,6 +9,7 @@
 import Cocoa
 
 class ViewController: NSViewController {
+    @IBOutlet weak var aboutButton: NSButton!
 
     override func viewDidLoad() {
         super.viewDidLoad()

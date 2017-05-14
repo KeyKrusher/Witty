@@ -54,8 +54,8 @@
 			children = (
 				A377CFD31EC7BAF50085D929 /* AppDelegate.swift */,
 				A377CFD51EC7BAF50085D929 /* ViewController.swift */,
-				A377CFD71EC7BAF50085D929 /* Assets.xcassets */,
 				A377CFD91EC7BAF50085D929 /* Main.storyboard */,
+				A377CFD71EC7BAF50085D929 /* Assets.xcassets */,
 				A377CFDC1EC7BAF50085D929 /* Info.plist */,
 			);
 			path = Witty;
