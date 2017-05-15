@@ -1,6 +1,9 @@
 """
 http://amoffat.github.io/sh/
 """
+# Code not originally written by me, it was written by Andrew Moffat as you can see below
+# I claim no ownership of this code, I'm just keeping it in my package so that people won't
+# have to install it if they do not want to.
 #===============================================================================
 # Copyright (C) 2011-2017 by Andrew Moffat
 #
